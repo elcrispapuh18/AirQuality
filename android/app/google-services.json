@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209666662040",
+    "firebase_url": "https://fotosfirebase-49f24.firebaseio.com",
+    "project_id": "fotosfirebase-49f24",
+    "storage_bucket": "fotosfirebase-49f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209666662040:android:c8fd8e7019fdba2adb7aed",
+        "android_client_info": {
+          "package_name": "com.pruebacrud.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209666662040-fvbuolv2k704d7pldi34nlg0mpbkfdco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuL2B2vCjMZeKxX1l2sMYLNEGlZF7VJVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209666662040-fvbuolv2k704d7pldi34nlg0mpbkfdco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
